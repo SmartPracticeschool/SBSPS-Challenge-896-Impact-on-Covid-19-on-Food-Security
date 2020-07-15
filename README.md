@@ -38,7 +38,7 @@ Introduction Tab
 ![](https://github.com/Skillz619/-IBMHACKCHALLENGE2020-Impact-on-Covid-19-on-Food-Security-Shreekar-Kolanu/blob/master/Preview1.png)
 
 Agriculture Tab (BOT)
-![](https://github.com/Skillz619/-IBMHACKCHALLENGE2020-Impact-on-Covid-19-on-Food-Security-Shreekar-Kolanu/blob/master/Preview2.png)
+![](https://github.com/Skillz619/IBM-Call-for-Code-Challenge-shreekar-kolanu/blob/master/Tabs%20Imgs/Tab%202.png)
 
 Visual Recognition Tab
 ![](https://github.com/Skillz619/-IBMHACKCHALLENGE2020-Impact-on-Covid-19-on-Food-Security-Shreekar-Kolanu/blob/master/Preview(3).png)
